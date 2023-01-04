@@ -58,6 +58,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://shoppas-e-commerce.onrender.com",
-  "secure": false
+  "proxy": "https://shoppas-e-commerce.onrender.com"
 }
